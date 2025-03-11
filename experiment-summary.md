@@ -2,9 +2,9 @@
 
 | Test / Feature                              | Parameter Changed        | Purged Output? | Output Directory | Truncation Errors | Model Version | Evaluation / Benchmarks | Status     | GitHub Issue                                                   |
 |---------------------------------------------|--------------------------|----------------|------------------|-------------------|---------------|-------------------------|-----------|----------------------------------------------------------------|
-| Timesteps                                   | Dynamic/Tracer/Coupling  | N/A            | N/A              | None              | 0.3.1         | N/A                     | Completed | [#138](https://github.com/COSIMA/access-om3/issues/138)        |
-| Land Mask Changes                           | Land-sea mask updates    | N/A            | N/A              | None              | N/A           | N/A                     | Completed | [#177](https://github.com/COSIMA/access-om3/issues/177)        |
-| Equation of State (WRIGHT_REDUCED)          | Equation of state        | N/A            | N/A              | None              | N/A           | N/A                     | Completed | [#180](https://github.com/COSIMA/access-om3/issues/180)        |
+| Timesteps                                   | Dynamic/Tracer/Coupling  | Yes            | N/A              | None              | 0.3.1         | N/A                     | Completed | [#138](https://github.com/COSIMA/access-om3/issues/138)        |
+| Land Mask Changes                           | MINIMUM_DEPTH & MASKING_DEPTH    | N/A            | N/A              | None              | N/A           | N/A                     | Completed | [#177](https://github.com/COSIMA/access-om3/issues/177)        |
+| Equation of State          |  WRIGHT_REDUCED        | N/A            | N/A              | None              | N/A           | N/A                     | Completed | [#180](https://github.com/COSIMA/access-om3/issues/180)        |
 
 ---
 
